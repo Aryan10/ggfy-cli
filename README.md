@@ -2,6 +2,8 @@
 
 `ggfy-cli` is a command-line interface tool for shortening URLs using the `ggfy` URL shortener API.
 
+The API can be found at [Aryan10/ggfy](https://github.com/Aryan10/ggfy)
+
 ## Installation
 
 1. **Clone the repository**:
@@ -42,3 +44,4 @@ ggfy http://example.com
 ```
 
 The CLI tool will output the shortened URL.
+![image](https://github.com/user-attachments/assets/1775d918-056a-4235-b9ad-d07718211bee)
