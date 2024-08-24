@@ -1,0 +1,16 @@
+{
+  "name": "ggfy-cli",
+  "version": "1.0.0",
+  "description": "CLI for URL Shortener - ggfy",
+  "main": "ggfy.js",
+  "bin": {
+    "ggfy": "./ggfy.js"
+  },
+  "scripts": {
+    "start": "node ggfy.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "commander": "^7.0.0"
+  }
+}
