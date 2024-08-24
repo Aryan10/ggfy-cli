@@ -39,6 +39,8 @@ ggfy <url>
 
 Replace `<url>` with the URL you want to shorten. For example:
 
+
+
 ```bash
 ggfy http://example.com
 ```
