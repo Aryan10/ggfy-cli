@@ -39,11 +39,10 @@ ggfy <url>
 
 Replace `<url>` with the URL you want to shorten. For example:
 
-
-
 ```bash
 ggfy http://example.com
 ```
 
 The CLI tool will output the shortened URL.
+
 ![image](https://github.com/user-attachments/assets/1775d918-056a-4235-b9ad-d07718211bee)
